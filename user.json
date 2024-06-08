@@ -3,22 +3,22 @@
         {
             "username": "admin",
             "password": "admin123",
-            "name": "Administrador"
+            "role": "Administrador"
         },
         {
             "username": "psicologo",
             "password": "psicologo123",
-            "name": "Psicólogo"
+            "role": "Psicólogo"
         },
         {
             "username": "enfermeria",
             "password": "enfermeria123",
-            "name": "Enfermería"
+            "role": "Enfermería"
         },
         {
             "username": "estudiante",
             "password": "estudiante123",
-            "name": "Estudiante"
+            "role": "Estudiante"
         }
     ]
 }
