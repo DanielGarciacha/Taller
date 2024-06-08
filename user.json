@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "name": "Administrador"
+        },
+        {
+            "username": "psicologo",
+            "password": "psicologo123",
+            "name": "Psicólogo"
+        },
+        {
+            "username": "enfermeria",
+            "password": "enfermeria123",
+            "name": "Enfermería"
+        },
+        {
+            "username": "estudiante",
+            "password": "estudiante123",
+            "name": "Estudiante"
+        }
+    ]
+}
