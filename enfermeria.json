@@ -1,12 +1,22 @@
 {
-    "users": [
-        {
-            "name": "Enfermería1",
-            "role": "enfermeria"
-        },
-        {
-            "name": "Enfermería2",
-            "role": "enfermeria"
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "nombre": "María López",
+      "especialidad": "Enfermería General",
+      "telefono": "222-333-4444"
+    },
+    {
+      "id": 2,
+      "nombre": "Pedro Rodríguez",
+      "especialidad": "Enfermería ",
+      "telefono": "555-666-7777"
+    },
+    {
+      "id": 3,
+      "nombre": "Laura Fernández",
+      "especialidad": "Enfermería ",
+      "telefono": "999-888-7777"
+    }
+  ]
 }
