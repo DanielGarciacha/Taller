@@ -1,12 +1,22 @@
 {
-    "users": [
-        {
-            "name": "Admin1",
-            "role": "admin"
-        },
-        {
-            "name": "Admin2",
-            "role": "admin"
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "edad": 35,
+      "telefono": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "nombre": "Fabiana González",
+      "edad": 42,
+      "telefono": "987-654-3210"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rodríguez",
+      "edad": 38,
+      "telefono": "555-123-4567"
+    }
+  ]
 }
