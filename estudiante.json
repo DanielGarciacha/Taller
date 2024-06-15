@@ -1,12 +1,23 @@
 {
-    "users": [
-        {
-            "name": "Estudiante1",
-            "role": "estudiante"
-        },
-        {
-            "name": "Estudiante2",
-            "role": "estudiante"
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "nombre": "Carlos Gómez",
+      "edad": 20,
+      "carrera": "Mecatronica"
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Ramírez",
+      "edad": 22,
+      "carrera": "Negocios"
+    },
+    {
+      "id": 3,
+      "nombre": "Juan Martínez",
+      "edad": 21,
+      "carrera": "Telematica"
+    }
+  ]
 }
+
